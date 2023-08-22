@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Firmware - sa kojim moze da se ukljuci uredjaj">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../Firmware - sa kojim moze da se ukljuci uredjaj.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
